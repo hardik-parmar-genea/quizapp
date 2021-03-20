@@ -24,11 +24,11 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-size: large;
   background-color: #0a0e1b;
-  width: 475px;
+  width: 300px;
   min-height: 200px;
   height: min-content;
   border-radius: 15px;
-  padding: 100px;
+  padding: 50px;
   box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.75);
   display: inline-block;
   justify-content: space-evenly;
